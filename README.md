@@ -14,9 +14,9 @@ This repository contains the implementation of a facial expression detection mod
 
 To get started, clone this repository and install the required dependencies:
 
-git clone https://github.com/ShayanHodai/facial-expression-detection.git
-cd facial-expression-detection
-pip install -r requirements.txt
+1. `git clone https://github.com/ShayanHodai/facial-expression-detection.git`
+2. `cd facial-expression-detection`
+3. `pip install -r requirements.txt`
 
 # Dataset Preparation
 You will need a dataset of facial images labeled with emotion categories. You can use the FER2013 dataset as an example.
