@@ -2,13 +2,18 @@
 
 This project implements a facial expression recognition system using Convolutional Neural Networks (CNN) and Visual Transformers (Multi-Head Attention). The FER2013 dataset is augmented using various image processing techniques to improve the model's performance. The final model is exported as an ONNX file for deployment.
 
-1) MobileNet2 => This worked better for us
-<img src="Accuracy&LossMaps/accuracy_graph_Adam.png" alt="MobileNet2" width="500"/>
-<img src="Accuracy&LossMaps/loss_graph_Adam.png" alt="MobileNet2" width="500"/>
-
-2) Yolo => This didn't worked with <strong>ViT</strong> for us
-<img src="Accuracy&LossMaps/YoloV5.jpg" alt="YoloV5" width="500"/>
-<img src="Accuracy&LossMaps/YoloV5-modeldef.jpg" alt="YoloV5-modeldef" width="500"/>
+<p align="center">
+  <img src="Accuracy&LossMaps/YoloV5.jpg" alt="YoloV5" width="500" />
+</p>
+<p align="center">
+  <img src="Accuracy&LossMaps/YoloV5-modeldef.jpg" alt="YoloV5-modeldef" width="500" />
+</p>
+<p align="center">
+  <img src="Accuracy&LossMaps/accuracy_graph_Adam.png" alt="MobileNet2 accuracy" width="500" />
+</p>
+<p align="center">
+  <img src="Accuracy&LossMaps/loss_graph_Adam.png" alt="MobileNet2 loss" width="500" />
+</p>
 
 ## Description
 This facial expression recognition system combines the strengths of Convolutional Neural Networks (CNN) and Visual Transformers (Multi-Head Attention). The FER2013 dataset is used as the basis for training and testing, with multiple augmentation techniques applied to improve the model's generalization capabilities.
