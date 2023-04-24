@@ -4,14 +4,14 @@ This project implements a facial expression recognition system using Convolution
 
 <p align="center">
   <img src="https://i0.wp.com/developersbreach.com/wp-content/uploads/2020/08/cnn_banner.png?fit=1200%2C564&ssl=1" width="900" alt="Image">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*inc9Sty8xMFNNYlNVn9iBQ.png" width="800" alt="Image">
+
 </p>
 
 ## Description
 This facial expression recognition system combines the strengths of Convolutional Neural Networks (CNN) and Visual Transformers (Multi-Head Attention). The FER2013 dataset is used as the basis for training and testing, with multiple augmentation techniques applied to improve the model's generalization capabilities.
 
 <p align="center">
-
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*inc9Sty8xMFNNYlNVn9iBQ.png" width="800" alt="Image">
 </p>
 
 ### Live Deployment
