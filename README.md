@@ -7,7 +7,7 @@ This facial expression recognition system combines the strengths of Convolutiona
 
 <p align="center">
   <img src="https://i0.wp.com/developersbreach.com/wp-content/uploads/2020/08/cnn_banner.png?fit=1200%2C564&ssl=1" width="400" alt="Image">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*inc9Sty8xMFNNYlNVn9iBQ.png" width="800" alt="Image">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*inc9Sty8xMFNNYlNVn9iBQ.png" width="400" alt="Image">
   <img src="Accuracy&LossMaps/MultiHead_Attention.png" alt="Attention"/>
 </p>
 
