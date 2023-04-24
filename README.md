@@ -10,9 +10,8 @@ This project implements a facial expression recognition system using Convolution
 This facial expression recognition system combines the strengths of Convolutional Neural Networks (CNN) and Visual Transformers (Multi-Head Attention). The FER2013 dataset is used as the basis for training and testing, with multiple augmentation techniques applied to improve the model's generalization capabilities.
 
 <p align="center">
-  <img src="https://research.nvidia.com/sites/default/files/styles/wide/public/publications/Figure5.png?itok=egEetJGg" width="800" alt="Image">
+  <img src="https://cdn-media-1.freecodecamp.org/images/ogzEWfxkTLd-tGiwOIUvieopX-1rAioqoFSC" width="800" alt="Image">
 </p>
-
 
 ### Live Deployment
 
