@@ -36,10 +36,3 @@ A C++ version of the project compiles everything into a 4 MB executable. It gene
 <p align="center">
   <img src="Accuracy&LossMaps/loss_graph_Adam.png" alt="MobileNet2 loss" width="800" />
 </p>
-
-<p align="center">
-  <img src="Accuracy&LossMaps/YoloV5.jpg" alt="YoloV5" width="500" />
-</p>
-<p align="center">
-  <img src="Accuracy&LossMaps/YoloV5-modeldef.jpg" alt="YoloV5-modeldef" width="500" />
-</p>
