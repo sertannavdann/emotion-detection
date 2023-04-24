@@ -3,6 +3,7 @@
 This project implements a facial expression recognition system using Convolutional Neural Networks (CNN) and Visual Transformers (Multi-Head Attention). The FER2013 dataset is augmented using various image processing techniques to improve the model's performance. The final model is exported as an ONNX file for deployment.
 
 <p align="center">
+  <img src="https://cdn-media-1.freecodecamp.org/images/ogzEWfxkTLd-tGiwOIUvieopX-1rAioqoFSC" width="500" alt="Image">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*inc9Sty8xMFNNYlNVn9iBQ.png" width="800" alt="Image">
 </p>
 
@@ -10,7 +11,7 @@ This project implements a facial expression recognition system using Convolution
 This facial expression recognition system combines the strengths of Convolutional Neural Networks (CNN) and Visual Transformers (Multi-Head Attention). The FER2013 dataset is used as the basis for training and testing, with multiple augmentation techniques applied to improve the model's generalization capabilities.
 
 <p align="center">
-  <img src="https://cdn-media-1.freecodecamp.org/images/ogzEWfxkTLd-tGiwOIUvieopX-1rAioqoFSC" width="800" alt="Image">
+
 </p>
 
 ### Live Deployment
