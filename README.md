@@ -4,7 +4,7 @@ This project implements a facial expression recognition system using Convolution
 
 <p align="center">
   <img src="https://i0.wp.com/developersbreach.com/wp-content/uploads/2020/08/cnn_banner.png?fit=1200%2C564&ssl=1" width="900" alt="Image">
-
+  <img src="Accuracy&LossMaps/MultiHead_Attention.png" alt="Attention"/>
 </p>
 
 ## Description
