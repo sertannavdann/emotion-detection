@@ -41,6 +41,7 @@ A C++ version of the project compiles everything into a 4 MB executable. It gene
 </p>
 
 ### Copyright 2023 @CC - Sertan Avdan
-This work is licensed under a Creative Commons Attribution 4.0 International License.
-Commercial Use Must Contact - Sertan Avdan 
+
+<h3>This work is licensed under a Creative Commons Attribution 4.0 International License. </h3>
+<p> <strong> Commercial Use Must Contact - Sertan Avdan </strong> </p> 
 sertan.avdan@outlook.com
