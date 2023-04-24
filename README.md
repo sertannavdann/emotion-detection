@@ -34,8 +34,8 @@ A C++ version of the project compiles everything into a 4 MB executable. It gene
   Multi-head attention is a technique that allows a neural network to attend to different parts of the input sequence simultaneously, enabling it to capture complex relationships between different parts of the input. In the context of CNNs used for facial expression detection, multi-head attention can be applied to the sequential layer, allowing the network to focus on different parts of the face at the same time. This can improve the network's ability to capture subtle changes in facial expressions that may be indicative of different emotions. Overall, the combination of CNNs and multi-head attention can be a powerful tool for accurately detecting facial expressions.
 </p>
 <p align="center">
-  <img src="Accuracy&LossMaps/accuracy_graph_Adam.png" alt="MobileNet2 accuracy" width="200" />
+  <img src="Accuracy&LossMaps/accuracy_graph_Adam.png" alt="MobileNet2 accuracy" width="500" />
   <img src="Accuracy&LossMaps/loss_graph_Adam.png" alt="MobileNet2 loss" width="500" />
   
-  <img src="Accuracy&LossMaps/MultiHead_Attention.png" alt="Architecture" width="500" />
+  <img src="Accuracy&LossMaps/MultiHead_Attention.png" alt="Architecture" width="150" />
 </p>
