@@ -36,8 +36,6 @@ A C++ version of the project compiles everything into a 4 MB executable. It gene
 <p align="center">
   <img src="Accuracy&LossMaps/accuracy_graph_Adam.png" alt="MobileNet2 accuracy" width="500" />
   <img src="Accuracy&LossMaps/loss_graph_Adam.png" alt="MobileNet2 loss" width="500" />
-  
-  <img src="Accuracy&LossMaps/MultiHead_Attention.png" alt="Architecture" width="150" />
 </p>
 
 ### Copyright 2023 @CC - Sertan Avdan
