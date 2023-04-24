@@ -2,18 +2,8 @@
 
 This project implements a facial expression recognition system using Convolutional Neural Networks (CNN) and Visual Transformers (Multi-Head Attention). The FER2013 dataset is augmented using various image processing techniques to improve the model's performance. The final model is exported as an ONNX file for deployment.
 
-<p align="center">
-  <img src="Accuracy&LossMaps/YoloV5.jpg" alt="YoloV5" width="500" />
-</p>
-<p align="center">
-  <img src="Accuracy&LossMaps/YoloV5-modeldef.jpg" alt="YoloV5-modeldef" width="500" />
-</p>
-<p align="center">
-  <img src="Accuracy&LossMaps/accuracy_graph_Adam.png" alt="MobileNet2 accuracy" width="500" />
-</p>
-<p align="center">
-  <img src="Accuracy&LossMaps/loss_graph_Adam.png" alt="MobileNet2 loss" width="500" />
-</p>
+
+
 
 ## Description
 This facial expression recognition system combines the strengths of Convolutional Neural Networks (CNN) and Visual Transformers (Multi-Head Attention). The FER2013 dataset is used as the basis for training and testing, with multiple augmentation techniques applied to improve the model's generalization capabilities.
@@ -25,3 +15,19 @@ The live deployment takes the ONNX file and applies it to a live video stream. F
 ### CPP Version
 
 A C++ version of the project compiles everything into a 4 MB executable. It generates a graph of the detected emotions and saves it in JSON format.
+
+### Accuracies & Architecture
+
+<p align="center">
+  <img src="Accuracy&LossMaps/accuracy_graph_Adam.png" alt="MobileNet2 accuracy" width="500" />
+</p>
+<p align="center">
+  <img src="Accuracy&LossMaps/loss_graph_Adam.png" alt="MobileNet2 loss" width="500" />
+</p>
+
+<p align="center">
+  <img src="Accuracy&LossMaps/YoloV5.jpg" alt="YoloV5" width="500" />
+</p>
+<p align="center">
+  <img src="Accuracy&LossMaps/YoloV5-modeldef.jpg" alt="YoloV5-modeldef" width="500" />
+</p>
